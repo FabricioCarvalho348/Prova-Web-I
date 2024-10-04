@@ -43,7 +43,7 @@ GET https://restcountries.com/v3.1/name/brazil
 
 ## Design do Projeto
 
-![imagem](/assets/design-projeto.jpg)
+![imagem](/docs/design-projeto.jpg)
 
 ## Como Executar o Projeto
 
